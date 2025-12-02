@@ -24,16 +24,16 @@ The pizza business shows strong overall sales, but key performance drivers remai
  ## iii. Dashboard Features
 
                              Dynamic Features:
-                                              1. Slicers : Pizza Category/Name/Size
-                                              2. Button : Pizza Sales Part 1&2
-                                              3. Nevigators : Pizza Sales Part 1                  
+                                              1. Slicers : Doctorate/Associates/Bachelor/Master/High School Degree
+                                              2. Cross Filter : Slicers to Visuals
+                                              3. Hover : Visual level hovers                
                              Analytical Features:
-                                              1. KPI Cards : Total Orders, Total Revenue, Total Orders, Total Pizza Sold, AVG Order Value, AVG Pizzas Per Order
-                                              2. Column Chart : Daily Trends of Orders,
-                                              3. Line Chart : Monthly Trends of Orders
+                                              1. KPI Cards : Total Employee, Total Attrition, Attrition Rate, Total Active Employee, Average Age
+                                              2. Column Chart : Total Employee by Age Group
+                                              3. Matrix : Job Satisfaction Rating
                                               4. Funnel Chart : Total Pizzas Sold by Pizza Category
-                                              7. Pie Charts : % of Sales by Pizza Category, % of Sales by Pizza Size
-                                              8. Bar Charts : Top & Bottom 5 Pizzas by Total Revenue/Total Quantity/Total Order
+                                              7. Pie Charts : Total attrition departments, attrition rate by gender for different age groups
+                                              8. Bar Charts : Education Field Wise Attrition
                                               
  ## iv. 🔍 Insights and Recommendations
  

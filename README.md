@@ -112,6 +112,9 @@ The pizza business shows strong overall sales, but key performance drivers remai
 
  ### 1️⃣ Doctoral Degree 
 
+ ### Doctoral Degree — Attrition Snapshot  
+![Doctoral Attrition Analysis](https://github.com/Morsshed/Power-BI-HR-Attrition-Analysis/blob/main/Doctoral%20Attrition.png?raw=true)  
+
 ✅ Very small workforce: 17 employees, 1 attrition → 5.88% attrition rate (lowest among all).
 
 ✅ Average age = 38, slightly older than overall workforce.

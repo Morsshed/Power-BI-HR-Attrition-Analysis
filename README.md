@@ -16,10 +16,15 @@ The company is experiencing inconsistent attrition trends across departments, ag
 ##### Key Issues:
 
 ► What factors are driving the high attrition rate among younger employees, particularly those aged 25–34?
+
 ► Why are specific departments such as Sales and R&D consistently experiencing higher turnover than others?
+
 ► What causes newly hired employees (0–2 years of tenure) to leave at a significantly higher rate than long-tenured staff?
+
 ► How do attrition patterns differ across education levels, and which groups are most at risk of leaving?
+
 ► What role does job satisfaction play in voluntary exits, and which roles or levels show the lowest engagement?
+
 ► How is the loss of skilled employees affecting the company’s productivity, operational stability, and replacement costs?
 
  ## ii. Snapshot

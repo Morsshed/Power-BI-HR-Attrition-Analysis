@@ -37,9 +37,59 @@ The pizza business shows strong overall sales, but key performance drivers remai
                                               
  ## iv. 🔍 Insights and Recommendations
  
+### Overall Workforce Metrics
+
+ ✓ Total employees = 1470, of which 237 left → Attrition Rate: 16.12%.
+
+ ✓ Active employees = 1233, indicating a moderate turnover level.
+
+ ✓ Average employee age is 37, meaning a mid-career workforce.
+
+### Department-wise Insights
+
+ ✓ R&D and Sales show the highest attrition (largest slices in the pie chart).
+
+ ✓ HR has the smallest attrition share, indicating higher job stability.
+
+### Age Group Trends
+
+ ✓ Age group 25–34 has the highest employee count.
+
+ ✓ Workers aged 35–44 also form a strong portion of the workforce.
+
+ ✓ Attrition is highest among under 25 and 25–34 age groups.
+
+### Gender Trends
+
+ ✓ In almost every age group, male attrition slightly exceeds female attrition.
+
+ ✓ Under 25: Female attrition proportionally higher than male.
+
+ ✓ Above 55: Very low attrition for both genders.
+
+### Education-wise
+
+ ✓ Attrition is highest among employees with Bachelor’s and Master’s degrees (largest bars).
+
+ ✓ High school and technical education groups show low attrition volume.
+
+### Job Satisfaction
+
+ ✓ Some roles (e.g., Sales Representative, Laboratory Technicians) have many low satisfaction ratings (1–2).
+
+ ✓ Higher-level managerial roles show relatively better satisfaction.
 
 ## 📈 Recommendations
 
+ ✓ Target retention programs for 25–34 age group, where most attrition occurs.
+
+ ✓ Improve satisfaction for Sales & R&D roles, as they show the biggest attrition.
+
+ ✓ Launch career-growth and skill-development programs for bachelor/associate degree groups.
+
+ ✓ Conduct focused exit-interviews to understand dissatisfaction among low-satisfaction roles (lab techs, sales reps).
+
+ ✓ Introduce gender-inclusive engagement strategies, addressing slightly higher male attrition.
    
  ## v. Data Source
  

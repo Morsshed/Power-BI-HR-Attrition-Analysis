@@ -103,7 +103,8 @@ The company is experiencing inconsistent attrition trends across departments, ag
    
  ## v. Data Source
  
- [Pizza Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
+ [IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 
 # A - Analysis Techniques:
 ## A1 - Data Preparation

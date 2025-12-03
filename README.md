@@ -108,6 +108,18 @@ The company is experiencing inconsistent attrition trends across departments, ag
 # A - Analysis Techniques:
 ## A1 - Data Preparation
 
+### Data Collection & Inspection
+
+The HR dataset was collected from [source] and contains employee demographics, job roles, performance metrics, and attrition information. Initial inspection included checking the number of rows and columns, data types, and summary statistics to identify anomalies or inconsistencies. Duplicate entries and obvious errors were removed, and categorical columns were standardized to ensure consistency.
+
+### Data Cleaning & Feature Engineering
+
+Missing values were addressed using appropriate strategies, such as median imputation for numerical fields and mode or “Unknown” labels for categorical fields. Outliers were detected via boxplots and Z-score methods and were either capped or removed to prevent skewed analysis. New features were created to enhance insights, including age groups, experience levels, and work-life balance scores. Categorical variables were encoded for analysis and modeling, with one-hot encoding for nominal data and label encoding for ordinal data.
+
+### Data Transformation & Final Dataset
+
+Numerical features were normalized or standardized to improve model performance and ensure consistency across visualizations. Units and date formats were unified for clarity in dashboards. The cleaned dataset was split into features and target variable (Attrition) and saved as HR_Attrition_Cleaned.csv for use in dashboard visualizations and predictive modeling. A data dictionary was also prepared to describe each column and its role in analysis.
+
 # B - DAX (Data Analysis Expression)
    ### KPI Measures
                     Total Attrition = SUM(HR[Attrition number]) 

@@ -112,7 +112,7 @@ The pizza business shows strong overall sales, but key performance drivers remai
 
  ### 1️⃣ Doctoral Degree 
 
- ### Doctoral Degree — Attrition Snapshot  
+ ### Doctoral Degree  
 ![Doctoral Attrition Analysis](https://github.com/Morsshed/Power-BI-HR-Attrition-Analysis/blob/main/Doctoral%20Attrition.png?raw=true)  
 
 ✅ Very small workforce: 17 employees, 1 attrition → 5.88% attrition rate (lowest among all).
@@ -136,6 +136,9 @@ The pizza business shows strong overall sales, but key performance drivers remai
 ✅ Doctoral employees appear highly stable and least likely to leave.
 
 ### 2️⃣ Associate Degree 
+
+### Associate Degree — Attrition Snapshot  
+![Associate Degree Attrition Analysis](https://github.com/Morsshed/Power-BI-HR-Attrition-Analysis/blob/main/Associate%20Attrition.png?raw=true)
 
 ✅ Workforce: 116 employees, 18 attrition → 15.52% attrition rate.
 

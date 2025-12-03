@@ -162,6 +162,8 @@ The pizza business shows strong overall sales, but key performance drivers remai
 
 ### 3️⃣ Bachelor’s Degree 
 
+![Bachelor’s Degree Attrition](https://github.com/Morsshed/Power-BI-HR-Attrition-Analysis/blob/main/Bachelor%20Attrition.png?raw=true)
+
 ✅ Largest group: 233 employees, 37 attrition → 15.88% attrition rate.
 
 ✅ Average age = 37.
@@ -184,6 +186,8 @@ The pizza business shows strong overall sales, but key performance drivers remai
 
 ### 4️⃣ Master’s Degree 
 
+![Master’s Degree Attrition](https://github.com/Morsshed/Power-BI-HR-Attrition-Analysis/blob/main/Master%20Attrition.png?raw=true)
+
 ✅ Workforce: 173 employees, 25 attrition → 14.45% attrition rate.
 
 ✅ Average age = 39, older and more experienced group.
@@ -204,7 +208,9 @@ The pizza business shows strong overall sales, but key performance drivers remai
 
 ✅ Education field distribution suggests professional/technical backgrounds.
 
-### 5️⃣ High School 
+### 5️⃣ High School Degree
+
+![High School Attrition](https://github.com/Morsshed/Power-BI-HR-Attrition-Analysis/blob/main/High%20School%20Attrition.png?raw=true)
 
 ✅ Small workforce: 67 employees, 8 attrition → 11.94% attrition rate.
 

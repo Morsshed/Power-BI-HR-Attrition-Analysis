@@ -4,7 +4,7 @@ Analyze and visualize factors influencing HR attrition
 [Interactive HR Attrition Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiZmU2N2FhNWMtODljZC00OTQzLWI4MzUtZDg2MWIyYWZhNjc1IiwidCI6IjFhOTM4M2ZmLTVlMDEtNDkzYy04MTJmLTg0ODAzZTliMGI3YiJ9)
 
 
- ### 1. Domain: Human Resources (HR)
+ ###  Domain: Human Resources (HR)
 
 # Analysis Details
  ## i. HR Case

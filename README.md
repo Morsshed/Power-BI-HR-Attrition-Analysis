@@ -107,10 +107,128 @@ The pizza business shows strong overall sales, but key performance drivers remai
       
  # C - Analyses and Interactivities
 
-![HR Attrition Analysis](https://github.com/Morsshed/Power-BI-HR-Attrition-Analysis/blob/main/HR%20Attrition%20Analysis.png?raw=true)
 
  ## Detailed Insights
 
+ ### 1️⃣ Doctoral Degree 
+
+✅ Very small workforce: 17 employees, 1 attrition → 5.88% attrition rate (lowest among all).
+
+✅ Average age = 38, slightly older than overall workforce.
+
+✅ HR shows 0 attrition; distribution well balanced.
+
+✅ Most employees fall between 35–44 age group.
+
+✅ Gender ratio roughly equal.
+
+✅ Attrition almost negligible across all age groups.
+
+✅ Job satisfaction scores are mostly 3–4, showing stable engagement.
+
+✅ No major concentration by department → doctoral roles dispersed.
+
+✅ Education field segments show near-zero attrition.
+
+✅ Doctoral employees appear highly stable and least likely to leave.
+
+### 2️⃣ Associate Degree 
+
+✅ Workforce: 116 employees, 18 attrition → 15.52% attrition rate.
+
+✅ Average age: 36, slightly younger group.
+
+✅ Attrition highest in Sales and R&D sectors.
+
+✅ Most employees aged 25–34.
+
+✅ Attrition slightly higher among males in young age groups.
+
+✅ Under-25 group shows noticeable attrition ratio.
+
+✅ Job satisfaction patterns show more rating 2 and fewer high ratings.
+
+✅ Associate-degree workforce seems entry-level to mid-career.
+
+✅ Education field values indicate more technical-field employees.
+
+✅ Engagement weaker than Master/Doctoral segments.
+
+### 3️⃣ Bachelor’s Degree 
+
+✅ Largest group: 233 employees, 37 attrition → 15.88% attrition rate.
+
+✅ Average age = 37.
+
+✅ This group drives the highest total attrition count after All-Employees view.
+
+✅ High attrition in R&D and Sales, similar to global pattern.
+
+✅ Age group 25–34 dominates employment count.
+
+✅ Under-25 attrition relatively high.
+
+✅ Male attrition slightly higher in most age segments.
+
+✅ Job satisfaction varies widely → strong 2–3 ratings distribution.
+
+✅ Bachelor’s degree shows the largest workforce mobility, meaning more job-switch behavior.
+
+✅ This group mirrors the overall HR dataset pattern.
+
+### 4️⃣ Master’s Degree 
+
+✅ Workforce: 173 employees, 25 attrition → 14.45% attrition rate.
+
+✅ Average age = 39, older and more experienced group.
+
+✅ R&D and Sales again show the most attrition.
+
+✅ Most employees in 25–34 and 35–44 age groups.
+
+✅ Gender distribution balanced; slightly higher male attrition.
+
+✅ Under-25 nearly zero attrition.
+
+✅ Job satisfaction slightly better compared to bachelor-level employees.
+
+✅ Attrition at mid-career (35–44) is noticeable.
+
+✅ Master’s-level workers appear more stable than bachelor’s holders.
+
+✅ Education field distribution suggests professional/technical backgrounds.
+
+### 5️⃣ High School 
+
+✅ Small workforce: 67 employees, 8 attrition → 11.94% attrition rate.
+
+✅ Average age = 34, youngest group overall.
+
+✅ Department attrition concentrated mainly in Sales.
+
+✅ Under-25 group very small but shows some attrition.
+
+✅ Lower overall attrition compared to bachelor/associate degree groups.
+
+✅ Workforce mostly entry-level operational roles.
+
+✅ Age group 25–34 has majority of employees.
+
+✅ Gender attrition difference minimal.
+
+✅ Job satisfaction ratings stable (many 3–4s).
+
+✅ High-school group shows better retention than Associate/Bachelor groups.
+
  # Conclusion
 
+Overall recommendations for Doctoral, Associate, Bachelor, Master, High School graduated employees
+
+✅ Doctoral group needs minimal intervention — maintain current stability through recognition and research-support programs.
+
+✅ Improve job satisfaction for Associate and Bachelor groups by enhancing workload balance and growth opportunities.
+
+✅ Master’s group would benefit from leadership training to reduce mid-career attrition.
+
+✅ High-school workforce should receive structured skill-upgrading programs to improve long-term retention and role mobility.
 

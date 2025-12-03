@@ -11,11 +11,16 @@ Analyze and visualize factors influencing HR attrition
  
 ##### 🚩 Problem Statement:
 
-The pizza business shows strong overall sales, but key performance drivers remain unclear. The company lacks detailed insights into customer behavior, product performance, and demand patterns, making it difficult to optimize operations and maximize revenue.
+The company is experiencing inconsistent attrition trends across departments, age groups, tenure levels, and education categories, raising concerns about employee engagement, workforce stability, and long-term HR planning effectiveness.
 
 ##### Key Issues:
 
-► Uncertainty about which pizza categories, sizes, and individual items drive the most revenue.
+► What factors are driving the high attrition rate among younger employees, particularly those aged 25–34?
+► Why are specific departments such as Sales and R&D consistently experiencing higher turnover than others?
+► What causes newly hired employees (0–2 years of tenure) to leave at a significantly higher rate than long-tenured staff?
+► How do attrition patterns differ across education levels, and which groups are most at risk of leaving?
+► What role does job satisfaction play in voluntary exits, and which roles or levels show the lowest engagement?
+► How is the loss of skilled employees affecting the company’s productivity, operational stability, and replacement costs?
 
  ## ii. Snapshot
  
